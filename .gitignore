@@ -1,0 +1,5 @@
+.idea/
+Core/
+node_modules/
+*.pid
+.DS_Store
